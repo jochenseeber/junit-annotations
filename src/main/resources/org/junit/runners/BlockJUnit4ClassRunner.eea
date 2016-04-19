@@ -1,0 +1,4 @@
+class org/junit/runners/BlockJUnit4ClassRunner
+validateTestMethods
+ (Ljava/util/List<Ljava/lang/Throwable;>;)V
+ (L1java/util/List<Ljava/lang/Throwable;>;)V

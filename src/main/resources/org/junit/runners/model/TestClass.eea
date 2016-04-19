@@ -1,0 +1,7 @@
+class org/junit/runners/model/TestClass
+getAnnotatedMethods
+ (Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;)Ljava/util/List<Lorg/junit/runners/model/FrameworkMethod;>;
+ (Ljava/lang/Class<+Ljava/lang/annotation/Annotation;>;)L1java/util/List<L1org/junit/runners/model/FrameworkMethod;>;
+getJavaClass
+ ()Ljava/lang/Class<*>;
+ ()L1java/lang/Class<*>;

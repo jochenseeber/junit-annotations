@@ -1,0 +1,7 @@
+class org/junit/runners/model/FrameworkMethod
+FrameworkMethod
+ (Ljava/lang/reflect/Method;)V
+ (L1java/lang/reflect/Method;)V
+getMethod
+ ()Ljava/lang/reflect/Method;
+ ()L1java/lang/reflect/Method;

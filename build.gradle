@@ -14,7 +14,7 @@ buildscript {
     }
 }
 
-version = "4.12-r.2"
+version = "4.12-r.3"
 group = "me.seeber.annotations"
 description = "External annotations for JUnit 4.12"
 
